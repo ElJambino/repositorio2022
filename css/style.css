@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.texto_h1 {
+    text-align: center;
+    color: orange;
+    padding: 15px;
+    font-size: xx-large;
+    font-family: 'Bungee Spice', cursive;
+}
+
+.texto_p1 {
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    font-family: 'Bungee Spice', cursive;
+}
+
+h2 {
+    color: black;
+    font-family: 'Lato', sans-serif;
+}
+
+nav {
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(13,11,29,1) 82%);
+}
+
+ul  {
+    display: flex;
+    color: white;
+    justify-content: flex-end;
+    justify-content: space-around;
+    list-style: none;
+    padding: 9px;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+}
+
+nav ul li {
+text-align: right;
+margin-right: 5px;
+}
+
+nav ul li a:hover {
+    color : #ccc
+}
+
+nav ul li:hover {
+    color : #ccc
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li i {
+    text-align: right;
+    margin-right: 5px;
+    }
+ 
+
+
+
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+nav img {
+    width: 10%;
+    height: 10%;
+    border-radius: 100%; 
+}
+
+.texto__foot {
+    color: white;
+}
+
+
+
+div section img {
+    width: 40%;
+    height: 40%;
+    border-radius: 15%;
+    border: solid black;
+    margin: 20px;
+}
+
+
+iframe {
+    display: inline-block;
+    border : solid black;
+    border-radius:10%;
+    margin: 10px;
+}
+
+.texto_video{
+    font-family: 'Bungee Spice', cursive;
+}
+
+.titulo_juegos {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Bungee Spice', cursive ;
+    margin: 10px;
+    padding: 15px;
+
+}
+
+.parrafo_juegos {
+    color: black;
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+    font-size: xx-large;
+}
+
+div article a {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+    list-style: none;
+    padding: 9px;
+    font-size: x-large;
+    text-decoration: none;
+    border: solid black;
+}
+
+
+.titulo_anime {
+
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+    padding: 5px;
+}
+
+.subtitulo_anime {
+    font-family: 'Bungee Spice', cursive;
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+
+
+main ol p {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: solid rgb(90, 76, 76);
+    border-radius: 10px;
+    margin: 10px;
+    background-color: moccasin;
+    font-family: 'Caveat', cursive;
+}
+
+.li_anime {
+    font-size: 35px;
+    color: darkmagenta;
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+.titulo_fotos {
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+    font-size: xx-large;
+}
+
+div main img {
+    margin: 10%;
+    border: solid black;
+    border-radius: 5%;
+    
+}
+
+.link_games:hover {
+    transform: scale(2);
+    transition: all 0.5s;
+}
+
+div article a {
+    background-color: antiquewhite;
+}
+
+.container p {
+    font-size: xx-large;
+    text-align: left;
+    padding-left: 100px;
+}
+
+div section p {
+    text-shadow: 8px 10px 8px white;
+    font-family: 'Bungee Spice', cursive;
+    margin: 1.5%;
+    padding: 1.5%;
+}
+
+
+
+footer {
+    padding: 100px;
+    background-color: black;
+}

@@ -22,6 +22,7 @@ body {
     font-family: 'Bungee Spice', cursive;
 }
 
+
 h2 {
     color: black;
     font-family: 'Lato', sans-serif;
@@ -66,8 +67,6 @@ nav ul li i {
     margin-right: 5px;
     }
  
-
-
 
 
 h2 {
@@ -149,28 +148,24 @@ div article a {
 }
 
 
-
-
-
-main ol p {
-    font-size: 40px;
-    margin: 10px;
-    padding: 10px;
-    text-align: center;
-    border: solid rgb(90, 76, 76);
-    border-radius: 10px;
-    margin: 10px;
-    background-color: moccasin;
+.div {
+    border: 1px solid black;
+    background-color: orange;
+    font-size: 30px;
     font-family: 'Caveat', cursive;
+    border-radius: 10px; 
 }
 
-.li_anime {
-    font-size: 35px;
-    color: darkmagenta;
-    margin: 10px;
-    text-align: center;
-}
 
+
+.p_div {
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: lightgray;
+    border-radius: 15px;
+}
 
 
 .titulo_fotos {

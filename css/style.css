@@ -148,12 +148,15 @@ div article a {
 }
 
 
+
+
 .div {
     border: 1px solid black;
     background-color: orange;
     font-size: 30px;
     font-family: 'Caveat', cursive;
     border-radius: 10px; 
+    text-align: center;
 }
 
 
@@ -168,10 +171,12 @@ div article a {
 }
 
 
-.titulo_fotos {
+.titulo_personajes {
     font-family: 'Bungee Spice', cursive;
     text-align: center;
     font-size: xx-large;
+    padding: 15px;
+    margin: 20px;
 }
 
 div main img {
@@ -204,6 +209,78 @@ div section p {
 }
 
 
+.color_c1 {
+    background-color: orange;
+    
+}
+
+.color_c2 {
+    background-color: blue;
+}
+
+.color_c3 {
+    background-color: green;
+}
+
+.color_c4 {
+    background-color: black;
+}
+
+.color_c5 {
+    background-color: rgb(43, 2, 9);
+}
+
+.color_c6 {
+    background-color: #ccc;
+}
+
+.color_c7 {
+    background-color: rgb(2, 51, 44);
+}
+
+.color_c8 {
+    background-color: rgb(247, 11, 11);
+}
+
+.color_c9 {
+    background-color: rgb(76, 5, 85);
+}
+.text_c1 {
+    color: white;
+
+}
+
+.text_c2 {
+    color: white;
+}
+
+.text_c3 {
+    color: white;
+}
+
+.text_c4 {
+    color: white;
+}
+
+.text_c5 {
+    color: white;
+}
+
+.text_c6 {
+    color: white;
+}
+
+.text_c7 {
+    color: white;
+}
+
+.text_c8 {
+    color:  white;
+}
+
+.text_c9 {
+    color: white;
+}
 
 footer {
     padding: 100px;

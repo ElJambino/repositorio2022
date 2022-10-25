@@ -82,6 +82,11 @@ nav img {
 
 .texto__foot {
     color: white;
+    text-align: center;
+}
+
+.texto_foot2 {
+    color: white;
 }
 
 
@@ -96,13 +101,17 @@ div section img {
 
 
 iframe {
-    display: inline-block;
     border : solid black;
-    border-radius:10%;
-    margin: 10px;
+    border-radius: 10px;
+    }
+
+.video_games {
+    border: 15px solid black;
+    border-radius: 10%;
 }
 
 .texto_video{
+    padding: 15px;
     font-family: 'Bungee Spice', cursive;
 }
 
@@ -189,6 +198,7 @@ div main img {
 .link_games:hover {
     transform: scale(2);
     transition: all 0.5s;
+    color : red;
 }
 
 div article a {
@@ -281,6 +291,14 @@ div section p {
 .text_c9 {
     color: white;
 }
+
+.juego_1 {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+    padding: 20px;
+}
+
 
 footer {
     padding: 100px;
